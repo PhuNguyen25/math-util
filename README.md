@@ -5,4 +5,4 @@
  * All of math methods localed in the *src* forder to support for the math calculation in your project.. Feel Free to use them.
 *(TBA...)
 #### Connect me via:
-[My facebook] 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

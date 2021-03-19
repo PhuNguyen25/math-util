@@ -9,4 +9,13 @@ Khi kho dc chia sẽ chung cho mọi người cũng sửa- PROJECT có nhiều n
 để invite (giống share google doc)
 - Coi chừng cờ-hó nó cắn, ọ CONFLICT khi nhiều người cùng thao tác trên 1 tài nguyên,1 tập tin
 khi nào bị conflict 
+khi chung ta up tuwf local lene tapaj tin x, maf truocws dods server
+ đã  có ai khác sửa X và commit rồi
+Local bản chưa outdate/ cũ, ma flại có thêm phần mới của ta. github bối rối: đẩy phần của ta lên server 
+, đè luôn phần mới của ta, hay merge cả hai
+- hiện tưởng này gọi là connfluct, trong việc giữ kết quả của ai
 Xử lí thế nào
+ta nên ngó xem server về trộn với cái của ta
+bà ta quyết định merge ra sao. Dấu hiệu của ta, và của server dc đánh dấu qua
+- nhớ tắt file ở local trước khí gõ lện git pull
+Và sau đó ta gõ 3 lên huyền thoại.
