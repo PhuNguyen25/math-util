@@ -1,0 +1,12 @@
+CÂU LỆNH QUEN LÀM HÀNG NGÀY KHI KHO ĐÃ CÓ RỒI ĐÃ ĐƯỢC ĐƯA LÊN SERVER RỒI 
+- Vào cửa sổ lênh, chuyển đến thư mục chứa code muốn đâyẻ lên server. Dùng lẹnh cd theo từng mức thư mục/ directory/foldẻ
+- thoải mái sửa code, thêm bớt tập tin trong kho.
+- Sau cùng đõ 3 lệnh huyền thoại 
++git add * hoặc git add đều dc
++git commit- m"ghi rõ và tóm tắt bạn đã sửa j"
++ghi push
+Khi kho dc chia sẽ chung cho mọi người cũng sửa- PROJECT có nhiều người cùng làm - ta phải INVITE mọi người vào chơi chung trong kho, có nút nhấn trên servẻ
+để invite (giống share google doc)
+- Coi chừng cờ-hó nó cắn, ọ CONFLICT khi nhiều người cùng thao tác trên 1 tài nguyên,1 tập tin
+khi nào bị conflict 
+Xử lí thế nào
