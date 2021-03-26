@@ -17,7 +17,7 @@ public class test {
    
     @Test
     public void testFactorialGivenRightArgumentReturnsGoodResult(){
-        int n = 0;
+        int n = 1;
         long expected = 120;
         long actual = MathUtilyti.getFactorial(n);
        assertEquals(expected, actual);
